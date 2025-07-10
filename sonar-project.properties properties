@@ -1,5 +1,5 @@
 sonar.projectKey=demo-java-app
 sonar.sources=src
 sonar.java.binaries=target
-sonar.host.url=http://<SONAR_HOST>:9000
+sonar.host.url=http://18.223.111.63:9000/
 sonar.login=${SONAR_TOKEN}
